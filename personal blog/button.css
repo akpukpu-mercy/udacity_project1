@@ -1,0 +1,12 @@
+
+.butt{
+	text-decoration: none;
+	cursor: pointer;
+
+}
+
+button{
+	background-color: #444;
+	color: cornsilk;
+	border: 1px tomato groove;
+}
